@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/💼-ShareIn-5B5BD6?style=for-the-badge&labelColor=5B5BD6" height="70" alt="ShareIn" />
+<img src="../assets/sharein-logo.png" width="100" height="100" style="border-radius:22px" alt="ShareIn" />
 
 # ShareIn
 

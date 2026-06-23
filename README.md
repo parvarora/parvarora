@@ -100,7 +100,7 @@ Send <b>50 personalized cold emails in one click</b>, get the small details righ
 <!-- ShareIn -->
 <td width="50%" valign="top">
 <div align="center">
-<img src="https://img.shields.io/badge/💼-ShareIn-5B5BD6?style=for-the-badge&labelColor=5B5BD6" height="80" alt="ShareIn" />
+<img src="./assets/sharein-logo.png" width="80" style="border-radius:18px" alt="ShareIn" />
 <h3>ShareIn — Universal Job Saver</h3>
 </div>
 
