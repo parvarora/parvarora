@@ -188,10 +188,6 @@ Saw a job while scrolling but can't apply right now? <b>Tap “Share → ShareIn
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=parvarora&theme=tokyo-night&hide_border=true&area=true&custom_title=Parv's%20Contribution%20Graph&color=8b5cf6&line=8b5cf6&point=ffffff" alt="activity graph" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=parvarora&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-
 </div>
 
 <br/>
