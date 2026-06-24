@@ -1,4 +1,3 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Parv%20Arora&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20I%20build%20GenAI%20products%20people%20actually%20use&descAlignY=56&descSize=18" width="100%" alt="Parv Arora" />
@@ -220,5 +219,3 @@ Saw a job while scrolling but can't apply right now? <b>Tap “Share → ShareIn
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-
-<!-- profile-readme -->
