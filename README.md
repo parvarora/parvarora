@@ -121,19 +121,47 @@ Saw a job while scrolling but can't apply right now? <b>Tap “Share → ShareIn
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp; Pinned Projects
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="190" align="center">
+<br/>🎬<br/>
+<b><a href="https://github.com/parvarora/deepshorts">DeepShorts</a></b><br/>
+<sub>AI Bollywood Script Generator</sub><br/><br/>
+<a href="https://deepshorts-6c29a.web.app"><img src="https://img.shields.io/badge/▶%20Live-1f6feb?style=flat-square" alt="live" /></a>
+<a href="https://github.com/parvarora/deepshorts"><img src="https://img.shields.io/badge/Code-30363d?style=flat-square&logo=github" alt="code" /></a>
+</td>
+<td valign="top">
+Hand it one everyday situation; a resilient <b>multi-agent (LangGraph)</b> "writers' room" returns a full blockbuster — title, tagline, cast, and a multi-scene <b>Hinglish</b> script — streamed <b>live over WebSocket</b> as each agent (Architect → Screenwriter → Script Doctor → Finalize) thinks. 16 moods, 10 director styles, regenerate any part.<br/>
+<sub><code>React · Vite · TypeScript · FastAPI (Cloud Run) · LangGraph · Gemini</code></sub>
+</td>
+</tr>
 
-<a href="https://github.com/parvarora/deepshorts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvarora&repo=deepshorts&theme=tokyonight&hide_border=true&border_radius=12" alt="deepshorts" /></a>
-<a href="https://github.com/parvarora/Personalized-AI-Academic-Tutor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvarora&repo=Personalized-AI-Academic-Tutor&theme=tokyonight&hide_border=true&border_radius=12" alt="AI Tutor" /></a>
-<a href="https://github.com/parvarora/Voice-Operated-Cursor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvarora&repo=Voice-Operated-Cursor&theme=tokyonight&hide_border=true&border_radius=12" alt="Voice Cursor" /></a>
+<tr>
+<td valign="top" width="190" align="center">
+<br/>🎓<br/>
+<b><a href="https://github.com/parvarora/Personalized-AI-Academic-Tutor">AI Academic Tutor</a></b><br/>
+<sub>Textbook-grounded RAG</sub><br/><br/>
+<a href="https://github.com/parvarora/Personalized-AI-Academic-Tutor"><img src="https://img.shields.io/badge/Code-30363d?style=flat-square&logo=github" alt="code" /></a>
+</td>
+<td valign="top">
+Answers strictly from source material: <b>multi-query retrieval + Reciprocal Rank Fusion</b> over a Qdrant vector store, a <b>Neo4j knowledge graph</b> for entity/relationship reasoning, and <b>mem0</b> long-term memory for per-student personalization.<br/>
+<sub><code>Python · LangChain · Gemini · Qdrant · Neo4j · mem0 · Streamlit</code></sub>
+</td>
+</tr>
 
-</div>
-
-> **🎬 DeepShorts — AI Bollywood Script Generator.** Hand it one everyday situation; a resilient **multi-agent (LangGraph)** "writers' room" hands back a full blockbuster — title, tagline, cast, and a multi-scene **Hinglish** script — streamed **live over WebSocket** as each agent (Architect → Screenwriter → Script Doctor → Finalize) thinks. 16 moods, 10 director styles, regenerate any part. <br/> `React · Vite · TypeScript · FastAPI (Cloud Run) · LangGraph · Gemini` &nbsp; · &nbsp; [▶ Live demo](https://deepshorts-6c29a.web.app)
->
-> **🎓 Personalized AI Academic Tutor — Textbook-grounded RAG.** Answers strictly from source material: **multi-query retrieval + Reciprocal Rank Fusion** over a Qdrant vector store, a **Neo4j knowledge graph** for entity/relationship reasoning, and **mem0** long-term memory for per-student personalization. <br/> `Python · LangChain · Gemini · Qdrant · Neo4j · mem0 · Streamlit`
->
-> **🎙️ Voice-Operated Agentic Coding Assistant — hands-free coding.** A **LangGraph** state machine cleanly separates reasoning from tool execution, runs multi-step file/CLI operations in an isolated workspace, and persists **checkpointed state in MongoDB** for resumable, long-running sessions. <br/> `Python · LangGraph · Gemini · MongoDB · Docker · SpeechRecognition`
+<tr>
+<td valign="top" width="190" align="center">
+<br/>🎙️<br/>
+<b><a href="https://github.com/parvarora/Voice-Operated-Cursor">Voice Coding Agent</a></b><br/>
+<sub>Hands-free agentic coding</sub><br/><br/>
+<a href="https://github.com/parvarora/Voice-Operated-Cursor"><img src="https://img.shields.io/badge/Code-30363d?style=flat-square&logo=github" alt="code" /></a>
+</td>
+<td valign="top">
+A <b>LangGraph</b> state machine cleanly separates reasoning from tool execution, runs multi-step file/CLI operations in an isolated workspace, and persists <b>checkpointed state in MongoDB</b> for resumable, long-running sessions.<br/>
+<sub><code>Python · LangGraph · Gemini · MongoDB · Docker · SpeechRecognition</code></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
