@@ -130,9 +130,11 @@ Saw a job while scrolling but can't apply right now? <b>Tap “Share → ShareIn
 
 </div>
 
-> **🎙️ Voice-Operated Agentic Coding Assistant** — a stateful, voice-controlled coding assistant (Python + LangGraph) that plans and executes multi-step file operations, with a Qdrant RAG pipeline for codebase awareness and Dockerized MongoDB for persistent task state.
+> **🎬 DeepShorts — AI Bollywood Script Generator.** Hand it one everyday situation; a resilient **multi-agent (LangGraph)** "writers' room" hands back a full blockbuster — title, tagline, cast, and a multi-scene **Hinglish** script — streamed **live over WebSocket** as each agent (Architect → Screenwriter → Script Doctor → Finalize) thinks. 16 moods, 10 director styles, regenerate any part. <br/> `React · Vite · TypeScript · FastAPI (Cloud Run) · LangGraph · Gemini` &nbsp; · &nbsp; [▶ Live demo](https://deepshorts-6c29a.web.app)
 >
-> **🎓 Personalized AI Academic Tutor** — a RAG tutor (LangChain · Gemini · Qdrant · Neo4j · mem0) that answers student doubts from a textbook-specific vector store and personalizes responses via a Neo4j knowledge graph + conversational memory.
+> **🎓 Personalized AI Academic Tutor — Textbook-grounded RAG.** Answers strictly from source material: **multi-query retrieval + Reciprocal Rank Fusion** over a Qdrant vector store, a **Neo4j knowledge graph** for entity/relationship reasoning, and **mem0** long-term memory for per-student personalization. <br/> `Python · LangChain · Gemini · Qdrant · Neo4j · mem0 · Streamlit`
+>
+> **🎙️ Voice-Operated Agentic Coding Assistant — hands-free coding.** A **LangGraph** state machine cleanly separates reasoning from tool execution, runs multi-step file/CLI operations in an isolated workspace, and persists **checkpointed state in MongoDB** for resumable, long-running sessions. <br/> `Python · LangGraph · Gemini · MongoDB · Docker · SpeechRecognition`
 
 <br/>
 
